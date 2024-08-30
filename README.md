@@ -1,6 +1,3 @@
-Aqui está o conteúdo para o `README.md` do seu projeto:
-
-```markdown
 # YouTube Ad Speed Controller
 
 Este é um plugin para Google Chrome que ajusta automaticamente a velocidade de reprodução de vídeos durante anúncios no YouTube, além de mutar o áudio durante os anúncios. Após o término do anúncio, o vídeo volta à velocidade normal (1x) e o áudio é desmutado, permitindo que o usuário ajuste manualmente a velocidade do vídeo sem interferências adicionais até que um novo anúncio seja iniciado.
@@ -64,14 +61,3 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, fa�
 ## Licença
 
 Este projeto é licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-```
-
-### Resumo do Conteúdo
-
-- **Descrição Geral:** Uma breve explicação sobre o que o plugin faz e suas funcionalidades.
-- **Funcionalidades:** Lista das principais funcionalidades do plugin.
-- **Instalação:** Instruções passo a passo para baixar, preparar o arquivo `manifest.json`, carregar a extensão no Google Chrome e testá-la.
-- **Contribuições:** Orientação sobre como contribuir para o projeto.
-- **Licença:** Informação sobre a licença do projeto.
-
-Esse `README.md` deve fornecer todas as informações necessárias para que qualquer pessoa possa entender, instalar e usar o plugin no Google Chrome.

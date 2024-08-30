@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Ad Speed Controller",
+  "version": "1.0",
+  "description": "Ajusta a velocidade do vídeo para 4x e muta o áudio durante anúncios no YouTube.",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
